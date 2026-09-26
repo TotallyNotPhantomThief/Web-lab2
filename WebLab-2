@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lab-2</title>
+  <!--Change to B for style B-->
+  <link rel="stylesheet" href="styleA.css">
+</head>
+<body>
+  <main class="BoxesinaRow">
+    <div class="BoxA">A</div>
+    <div class="BoxB">B</div>
+    <div class="BoxC">C</div>
+    <div class="BoxD">D</div>
+    <div class="BoxE">E</div>
+    <div class="BoxF">F</div>
+  </main>
+</body>
+</html>
